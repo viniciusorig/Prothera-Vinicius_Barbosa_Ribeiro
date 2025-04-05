@@ -78,13 +78,13 @@ body {
 }
 
 .remember-forgot a:hover {
-    color: #4ecdc4;
+    color: #4bc270;
 }
 
 .login-button {
     width: 100%;
     padding: 15px;
-    background: #4ecdc4;
+    background: #4bc270;
     color: white;
     border: none;
     border-radius: 10px;
@@ -110,5 +110,5 @@ body {
 }
 
 .register-link a:hover {
-    color: #45b7b0;
+    color: #4bc270;
 }
